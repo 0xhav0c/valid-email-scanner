@@ -1,0 +1,2 @@
+verify-email==2.4.3
+colorama==0.4.6
