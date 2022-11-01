@@ -1,5 +1,5 @@
 # Valid Email Address Scanner
-This tool checks an existing mailing address list to see if these mailing addresses exist.
+This tool checks an existing email address list to see if these email addresses exist.
 # Installing from Source
 
 ```console
