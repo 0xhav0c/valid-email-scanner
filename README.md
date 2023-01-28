@@ -2,14 +2,14 @@
 This tool checks an existing email address list to see if these email addresses exist.
 # Installing from Source
 
-```console
+```shell
 git clone https://github.com/0xhav0c/valid-email-scanner.git
 cd valid-email-scanner
 pip 3 install -r requirements.txt
 ```
 
 # Tutorial
-```console
+```shell
 root@kali:~/tools/valid-email-scanner# python3 mail-validation-scanner.py 
 
     █████                █████                               █████            
